@@ -3,6 +3,7 @@ const userInput = document.getElementById("user-input");
 
 const replies = {
   hello: "Hi there! 😊 How can I assist you today?",
+  "hi":"Hi there! 😊 How can I assist you today?",
   "how are you": "I'm just a bot, but I’m always running at 100%! How can I help?",
   "account balance": "To check your balance, please log in to your FNB App or Online Banking.",
   "open account": "You can open an account online at www.fnb.co.za or visit your nearest branch.",
@@ -40,4 +41,3 @@ function getBotReply(input) {
   }
   return replies.default;
 }
-
