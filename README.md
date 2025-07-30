@@ -1,0 +1,1 @@
+This is a simple, responsive chatbot interface designed to simulate a conversation with FNB (First National Bank) support. The chatbot was built using HTML, CSS, and vanilla JavaScript, with clean styling and mobile-first responsiveness.
